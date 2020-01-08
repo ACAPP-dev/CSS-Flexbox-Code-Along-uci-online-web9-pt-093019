@@ -19,7 +19,7 @@ main {
   justify-content: center;
   align-items: center;
   align-content: center;
-  flex-basis: content;
+  flex-basis: 50%;
 }
 
 footer {
